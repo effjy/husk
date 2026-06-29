@@ -21,7 +21,7 @@ It ships as a **CLI** (`husk`) and a **GTK4 desktop frontend** (`husk-gui`) — 
 
 <div align="center">
   <br>
-  <img src="screenshot.png" width="840" alt="husk GTK4 frontend — chooser on the left, report log on the right">
+  <img src="screenshot1.png" width="840" alt="husk GTK4 frontend — chooser on the left, report log on the right">
   <br>
   <sub><i>husk-gui — choose a binary on the left; the read-only report appears in the log on the right.</i></sub>
 </div>
