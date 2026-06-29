@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=husk
+GenericName=ELF Inspector
+Comment=Read-only ELF / permissions / capability inspector
+Exec=husk-gui
+Icon=husk
+Terminal=false
+Categories=System;Security;
+Keywords=ELF;binary;security;forensics;capabilities;mitigations;
+StartupNotify=true
+StartupWMClass=husk
